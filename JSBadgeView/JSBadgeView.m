@@ -2,7 +2,7 @@
  Copyright (c) 2014 Xue Yingsong.
  
  Thanks to Javier Soto.
- Soource: https://github.com/JaviSoto/JSBadgeView
+ Source: https://github.com/JaviSoto/JSBadgeView
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
