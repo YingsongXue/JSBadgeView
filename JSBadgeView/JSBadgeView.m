@@ -3,6 +3,8 @@
  
  Thanks to Javier Soto.
  Source: https://github.com/JaviSoto/JSBadgeView
+ 
+ Keyworlds: BadgeView BadgeNumber Badge
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
